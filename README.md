@@ -1,3 +1,2 @@
 # QSChartView
-1.PieView
-this is a PieChartView
+this is a PieChartView implemented by OC
